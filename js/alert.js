@@ -1,1 +1,1 @@
-;(() => alert('Script from web-app server'))()
+;(() => console.log('Script from developer.lightbeamsecurity.com'))()
